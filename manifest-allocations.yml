@@ -8,6 +8,6 @@ applications:
   env:
     REGISTRATION_SERVER_ENDPOINT:https://tracker-allocations.apps.evans.pal.pivotal.io
   services:
-  - tracker-allocations-database
+  - tracker-applications-database
 
 
