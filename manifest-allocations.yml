@@ -6,7 +6,7 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT:https://tracker-allocations.apps.evans.pal.pivotal.io
+    REGISTRATION_SERVER_ENDPOINT: https://tracker-registration.apps.evans.pal.pivotal.io
   services:
   - tracker-applications-database
 
